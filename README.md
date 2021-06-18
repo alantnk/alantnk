@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Tanaka</h1>
-<h3 align="center">I'm a passionate tech lover from Fortaleza, Brazil. I've always valued content focused on logical reasoning and the programming represents a lot of this idea, so I intend to always improve myself to elucidate problems and help people. I am currently studying Full Stack Web Development at Trybe(www.betrybe.com/). My favorite languages ​​are Python and Javascript.</h3>
+<h3 align="center">I'm a passionate tech lover from Fortaleza, Brazil. I've always valued content focused on logical reasoning and the programming represents a lot of this idea, so I intend to always improve myself to elucidate problems and help people. I am currently studying Full Stack Web Development at Trybe School (www.betrybe.com). My favorite languages ​​are Python and Javascript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
