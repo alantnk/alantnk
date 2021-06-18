@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alan8819/](https://www.linkedin.com/in/alan8819/)
 
-- ⚡ Fun fact **I'm chess lover and my online rating is 1429. Come challegenge if you like ;) https://lichess.org/@/alant9**
+- ⚡ Fun fact **I'm chess lover and my online rating is 1429. Come challegenge me if you like https://lichess.org/@/alant9 ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
