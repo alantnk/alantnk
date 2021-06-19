@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alanctnk@gmail.com.**
 
-- ⚡ Fun fact **I'm chess lover and my online rating is 1429. Come challegenge me if you like https://lichess.org/@/alant9 ;)**
+- ⚡ Fun fact **I'm chess lover and my online rating is 1429. Come [challenge](https://lichess.org/@/alant9) me if you like. ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
