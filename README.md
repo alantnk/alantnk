@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Python and Data Science.**
 
-- 💬 Ask me about **React.**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **alanctnk@gmail.com.**
 
-- ⚡ Fun fact **I'm chess lover and my online rating is 1429. Come [challenge](https://lichess.org/@/alant9) me if you like. ;)**
+- ⚡ Fun fact **My current chess rating is 1429. Come [challenge](https://lichess.org/@/alant9) me if you like ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
