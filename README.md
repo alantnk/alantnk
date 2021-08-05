@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Tanaka</h1>
-<h3 align="center">I'm a tech lover and aspiring Web Developer! I always valued content focused on logical reasoning, I realized that programming represents a lot of this idea, so I always intend to improve myself to elucidate problems and help people. I am currently studying Full Stack Web Development at Trybe (www.betrybe.com). My favorite languages ​​are JavaScript and Python.</h3>
+<h3 align="center">I'm a tech lover and aspiring Web Developer! I appreciate content focused on logical reasoning, I realized that programming represents a lot of this idea, so I always intend to improve myself to elucidate problems and help people. I am currently studying Full Stack Web Development at <a href="https://www.betrybe.com/" target="blank">Trybe</a>. My favorite languages ​​are JavaScript and Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alan8819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan8819" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alan8819" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan8819" height="30" width="40" /></a>
 <a href="https://fb.com/t2031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="t2031" height="30" width="40" /></a>
 <a href="https://instagram.com/348014t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="348014t" height="30" width="40" /></a>
 <a href="https://codepen.io/at819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="at819" height="30" width="40" /></a>
