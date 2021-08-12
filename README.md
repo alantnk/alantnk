@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Tanaka</h1>
-<h3 align="center">First, sorry my poor English. I'm a tech lover and aspiring Web Developer! I appreciate content focused on logical reasoning, I realized that programming represents this idea, so I always intend to improve myself to elucidate problems and help people. I am currently studying Full Stack Web Development at <a href="https://www.betrybe.com/" target="blank">Trybe</a>. My favorite languages ​​are JavaScript and Python.</h3>
+<h3 align="center">First, sorry my poor English. I'm a tech lover and aspiring Web Developer! I like content focused on logical reasoning, I realized that programming represents this idea, so I always intend to improve myself to elucidate problems and help people. I am currently studying Full Stack Web Development at <a href="https://www.betrybe.com/" target="blank">Trybe</a>. My favorite languages ​​are JavaScript and Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
