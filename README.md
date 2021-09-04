@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Alan Tanaka</h1>
-<h3 align="center">First, sorry my poor English. I'm a tech lover and aspiring Web Developer! I like content focused on logical reasoning, I realized that programming represents this idea, so I always intend to improve myself to elucidate problems and help people. I am currently studying Full Stack Web Development at <a href="https://www.betrybe.com/" target="blank">Trybe</a>. My favorite languages ​​are JavaScript and Python.</h3>
+<h1 align="center">Olá 👋, sou Alan Tanaka</h1>
+<h3 align="center">Sou um amante por tecnologia e aspirante a Desenvolvedor Web! Sempre prezei por conteúdo voltado a raciocínio lógico, então vi que a programação representa muito dessa ideia, por isso pretendo sempre me aprimorar para elucidar problemas e ajudar pessoas. Atualmente estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="blank">Trybe</a>. Minhas linguagens favoritas são JavaScript e Python..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
-- 🌱 I’m currently learning **Node.js and Express.**
+- 🌱 Atualmente estou aprendendo **Node.js and Express.**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Pergunte sobre **ReactJS**
 
-- 📫 How to reach me **alanctnk@gmail.com.**
+- 📫 Como me contactar **alanctnk@gmail.com.**
 
-- ⚡ Fun fact **My current chess rating is 1429. Come [challenge](https://lichess.org/@/alant9) me if you like ;)**
+- ⚡ Curiosidade **Sei falar um pouco de inglês e japonês. Ich lerne Deutsch.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
