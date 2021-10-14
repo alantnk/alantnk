@@ -9,7 +9,7 @@
 
 - 📫 Como me contactar **alanctnk@gmail.com.**
 
-- ⚡ Curiosidade **Sei falar um pouco de inglês e japonês. Ich lerne Deutsch.**
+- ⚡ Fato curioso **Amante de xadrez no lichess.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
