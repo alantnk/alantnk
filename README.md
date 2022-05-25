@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou Alan Tanaka</h1>
-<h3 align="center">Sou um amante por tecnologia e aspirante a Desenvolvedor Web! Sempre prezei por conteúdo voltado a raciocínio lógico, então vi que a programação representa muito dessa ideia, por isso pretendo sempre me aprimorar para elucidar problemas e ajudar pessoas. Minhas linguagens favoritas são JavaScript e Python.</h3>
+<h1 align="center">Hi 👋, I'm Alan Tanaka</h1>
+<h3 align="center">I'm 33 years old and I currently live in Fortaleza - CE, Brazil. Since I was a kid I loved solving puzzles, it's no wonder my favorite games were Resident Evil on playstation one. I have always valued content aimed at logical reasoning, so I saw that programming represents a lot of this idea, so I always intend to improve myself to clarify problems and help people. My favorite languages are JavaScript and Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
