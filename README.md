@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
-- 🌱 Atualmente estou aprendendo -> **Django Rest Framework**
+- 🌱 I'm currently learning -> **Django Rest Framework**
 
-- 💬 Pergunte sobre -> **ReactJS**
+- 💬 Ask me about -> **ReactJS**
 
-- 📫 Como me contactar -> **alanctnk@gmail.com.**
+- 📫 How to reach me -> **alanctnk@gmail.com.**
 
-- ⚡ Fato curioso -> **Praticante de Jiu Jitsu 🥋**
+- ⚡ Fun Fact -> **Brazilian Jiu-Jitsu Practitioner 🥋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
