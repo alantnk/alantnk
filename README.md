@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alan Tanaka</h1>
-<h3 align="center">I'm 33 years old and I currently live in Fortaleza - CE, Brazil. Since I was a kid I loved solving puzzles, it's no wonder my favorite games were Resident Evil on playstation one. I have always valued content aimed at logical reasoning, so I saw that programming represents a lot of this idea, so I always intend to improve myself to clarify problems and help people. My favorite languages are JavaScript and Python.</h3>
+<h3><p>I am 33 years old and currently live in Fortaleza - CE, Brazil. In my childhood one of my favorite games was Resident Evil – Code: Veronica on Playstation 2. It had a lot of puzzles and I spent hours trying to solve them just to open a door.</p>
+
+<p>This satisfaction in solving problems and puzzles grew over time and I discovered that programming represents this idea, but it goes much further: I want to help people and organizations build their projects, their dreams and also be part of them.</p>
+
+<p>That's why I always intend to improve myself to become a better and qualified professional.</p>
+
+<p>My favorite languages are JavaScript and Python.</p></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
