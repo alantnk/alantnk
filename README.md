@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Alan Tanaka</h1>
-<h3><p>I am 33 years old and currently live in Fortaleza - CE, Brazil. In my childhood one of my favorite games was Resident Evil – Code: Veronica on Playstation 2. It had a lot of puzzles and I spent hours trying to solve them just to open a door.</p>
+<h1 align="center">Hi 👋, I'm Alan</h1>
+<h3>
+<p>Ever since I was a kid, I've been fascinated by puzzles and challenges. I spent countless hours playing Resident Evil games, trying to figure out the next clue or solve the next puzzle.</p>
 
-<p>This satisfaction in solving problems and puzzles grew over time and I discovered that programming represents this idea, but it goes much further: I want to help people and organizations build their projects, their dreams and also be part of them.</p>
+<p>But as I grew older, my passion for puzzles led me to discover a new love: programming. I became fascinated by the power of code to create and solve problems, and I threw myself into learning as many programming languages as I could.</p>
 
-<p>That's why I always intend to improve myself to become a better and qualified professional.</p>
+<p>One of my current favorites is React - it's a sleek, fast-moving library that I just can't get enough of. I also love Python, especially when used in conjunction with the Django package. Together, these tools allow me to create powerful, dynamic web applications with ease.</p>
 
-<p>My favorite languages are JavaScript and Python.</p></h3>
+> **"Technology is a gift of God. After the gift of life it is perhaps the
+> greatest of God's gifts. It is the mother of civilizations, of arts
+> and of sciences."** - Freeman Dyson
+
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
