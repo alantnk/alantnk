@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alan</h1>
+<h1 align="center">Hey you 👋, I'm Alan</h1>
 <h3>
+<p>I am currently living in the northeast region of Brazil. It is a beautiful natural country, Brazil has more animal and plant species than any other country in the world!</p>
 <p>Ever since I was a kid, I've been fascinated by puzzles and challenges. I spent countless hours playing Resident Evil games, trying to figure out the next clue or solve the next puzzle.</p>
 
 <p>But as I grew older, my passion for puzzles led me to discover a new love: programming. I became fascinated by the power of code to create and solve problems, and I threw myself into learning as many programming languages as I could.</p>
