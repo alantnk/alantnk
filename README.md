@@ -5,7 +5,7 @@
 
 <p>But as I grew older, my passion for puzzles led me to discover a new love: programming. I became fascinated by the power of code to create and solve problems, and I threw myself into learning as many programming languages as I could.</p>
 
-<p>One of my current favorites is React - it's a sleek, fast-moving library that I just can't get enough of. I also love Python, especially when used in conjunction with the Django package. Together, these tools allow me to create powerful, dynamic web applications with ease.</p>
+<p>One of my current favorites is React - it's a sleek, fast-moving library that I just can't get enough of. I also love Python, especially when used in conjunction with FastAPI, a web framework designed to build APIs quickly and easily. Together, these tools allow me to create powerful, dynamic web applications with ease.</p>
 
 > **"Technology is a gift of God. After the gift of life it is perhaps the
 > greatest of God's gifts. It is the mother of civilizations, of arts
@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
-- 🌱 I'm currently learning -> **Django Rest Framework**
+- 🌱 I'm currently learning -> **GraphQL**
 
 - 💬 Ask me about -> **ReactJS**
 
