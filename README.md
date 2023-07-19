@@ -1,11 +1,7 @@
 <h1 align="center">Hey you 👋, I'm Alan</h1>
 <h3>
 <p>I am currently living in the northeast region of Brazil. It is a beautiful natural country, Brazil has more animal and plant species than any other country in the world!</p>
-<p>Ever since I was a kid, I've been fascinated by puzzles and challenges. I spent countless hours playing Resident Evil games, trying to figure out the next clue or solve the next puzzle.</p>
 
-<p>But as I grew older, my passion for puzzles led me to discover a new love: programming. I became fascinated by the power of code to create and solve problems, and I threw myself into learning as many programming languages as I could.</p>
-
-<p>One of my current favorites is React - it's a sleek, fast-moving library that I just can't get enough of. I also love Node, especially when used in conjunction with Express, a web framework designed to build server-side applications in JavaScript. Together, these tools allow me to create powerful, dynamic web applications with ease.</p>
 
 > **"Technology is a gift of God. After the gift of life it is perhaps the
 > greatest of God's gifts. It is the mother of civilizations, of arts
@@ -16,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
-- 🌱 I'm currently learning -> **GraphQL**
+- 🌱 I'm currently learning -> **Django Rest Framework**
 
 - 💬 Ask me about -> **ReactJS**
 
