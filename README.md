@@ -1,6 +1,6 @@
 <h1 align="center">Hey you 👋, I'm Alan</h1>
 <h3>
-<p>I am currently living in the northeast region of Brazil. It is a beautiful natural country, Brazil has more animal and plant species than any other country in the world!</p>
+<p>I am currently living in Fortaleza, Brazil. It is a beautiful natural country, Brazil has more animal and plant species than any other country in the world!</p>
 
 
 > **"Technology is a gift of God. After the gift of life it is perhaps the
