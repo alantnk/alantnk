@@ -1,6 +1,4 @@
-<h1 align="center">Hey you 👋, I'm Alan</h1>
-<h3>
-<p>I am currently living in Fortaleza, Brazil. It is a beautiful natural country, Brazil has more animal and plant species than any other country in the world!</p>
+
 
 
 > **"Technology is a gift of God. After the gift of life it is perhaps the
@@ -12,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
-- 🌱 I'm currently learning -> **Django Rest Framework**
+- 🌱 I'm currently learning -> **ElectronJS**
 
 - 💬 Ask me about -> **ReactJS**
 
