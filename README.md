@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
-- 🌱 I'm currently learning -> **ElectronJS**
+- 🌱 I'm currently learning -> **Django Rest Framework**
 
 - 💬 Ask me about -> **ReactJS**
 
