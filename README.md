@@ -1,9 +1,6 @@
 <h1 align="center">Olá estranho(a) 👽, sou Alan! </h1>
 <h3 align="center">Desenvolvedor Full-Stack em constante aprendizado. Transformando ideias em código 💻.</h3>
 
-
-</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
 - 🌱 Atualmente estou aprendendo -> **Django Rest Framework**
