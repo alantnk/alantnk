@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
 
-- 🌱 Atualmente estou aprendendo -> **Django Rest Framework**
+- 🌱 Atualmente estou aprendendo -> **GraphQL**
 
 - 💬 Pergunte-me sobre -> **ReactJS**
 
