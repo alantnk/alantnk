@@ -1,8 +1,6 @@
 <p align="center" style="color: blue; font-size: 18px;">Olá estranho(a) 👽, sou Alan </p>
 <p align="center">Desenvolvedor Full-Stack em constante aprendizado💻.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanctnk&label=Profile%20views&color=0e75b6&style=flat" alt="alanctnk" /> </p>
-
 - 🌱 Atualmente estou aprendendo -> **GraphQL**
 
 - 💬 Pergunte-me sobre -> **ReactJS**
