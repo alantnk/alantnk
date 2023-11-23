@@ -1,13 +1,13 @@
-<p align="center" style="color: blue; font-size: 18px;">Olá estranho(a) 👽, sou Alan </p>
-<p align="center">Desenvolvedor Full-Stack em constante aprendizado💻.</p>
+<p align="center" style="color: blue; font-size: 18px;">Hello stranger 👽, I'm Alan</p>
+<p align="center">Full-Stack Developer committed to ongoing learning 💻.</p>
 
-- 🌱 Atualmente estou aprendendo -> **GraphQL**
+- 🌱 Currently learning -> **GraphQL**
 
-- 💬 Pergunte-me sobre -> **ReactJS**
+- 💬 Ask me about -> **ReactJS**
 
-- 📫 Como me alcançar -> **alanctnk@gmail.com**
+- 📫 How to reach me -> **alanctnk@gmail.com**
 
-- 🥋 Fato curioso -> **Praticante de Brazilian Jiu-Jitsu**
+- 🥋 Fun fact -> **Brazilian Jiu-Jitsu practitioner**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
