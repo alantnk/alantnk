@@ -73,5 +73,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alant2031&show_icons=true&locale=en" alt="alant2031" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alant2031&" alt="alant2031" /></p>
-
