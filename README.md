@@ -1,11 +1,7 @@
 <p align="center" style="color: blue; font-size: 18px;">Hello stranger 👽, I'm Alan</p>
 <p align="center">Full-Stack Developer committed to ongoing learning 💻.</p>
 
-- 💬 Ask me about -> **Javascript | Python | Golang**
-
 - 📫 How to reach me -> **alanctnk@gmail.com**
-
-- 🥋 Fun fact -> **Brazilian Jiu-Jitsu practitioner**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,7 +37,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alant4k&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="alant4k" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alantnk&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="alantnk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alant4k&show_icons=true&locale=en" alt="alant4k" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alantnk&show_icons=true&locale=en" alt="alantnk" /></p>
 
